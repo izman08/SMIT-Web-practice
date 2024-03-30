@@ -1,0 +1,115 @@
+.box {
+    background-color: rgb(240, 113, 9);
+    height: 130vh;
+    width: 100%;
+
+}
+
+.mainone {
+    padding-top: 20px;
+    display: flex;
+}
+
+.first {
+    color: white;
+    padding-left: 300px;
+    display: flex;
+}
+
+.second {
+    color: black;
+    padding-left: 1000px;
+
+}
+
+.first>img {
+    padding-top: 15px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+h3 {
+    text-transform: capitalize;
+}
+
+.maintwo {
+    padding-top: 100px;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.third {
+    width: 20%;
+    color: white;
+    padding-left: 300px;
+    padding-top: 150px;
+}
+
+.fourth {
+    padding-left: 500px;
+    padding-top: 100px;
+
+}
+
+button {
+    height: 7vh;
+    width: 40%;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+}
+
+.boxtwo {
+    background-color: rgb(48, 44, 44);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+}
+
+.sixth {
+    background-color: white;
+    width: 20%;
+    height: 15vh;
+    margin-top: 500px;
+    text-align: center;
+}
+
+.fifth {
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+.boxthree {
+    margin: 0% ;
+    background-color: aliceblue;
+    height: 90vh;
+    width: 100%;
+    text-align: center;
+  
+}
+.seventh{
+    background-color: black;
+   
+    width: 50%;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    margin-left: 450px;
+    border-radius: 8%;
+    color: rgb(255, 255, 255);
+}
+.eighth{
+    padding-top: 20px;
+    color:gray;
+}
+.boxfour{
+    background-color: white;
+    height: 90vh;
+    width: 100%;
+    text-align: center;
+}
